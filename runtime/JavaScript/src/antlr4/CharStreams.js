@@ -2,7 +2,7 @@
  * Use of this file is governed by the BSD 3-clause license that
  * can be found in the LICENSE.txt file in the project root.
  */
-
+var CaseInsensitiveInputStream = require('./CaseInsensitiveInputStream').CaseInsensitiveInputStream;
 const {InputStream} = require('./InputStream');
 const fs = require("fs");
 
@@ -70,6 +70,14 @@ const CharStreams = {
   fromPathSync: function(path, encoding) {
     const data = fs.readFileSync(path, encoding);
     return new InputStream(data, true);
+  },
+  
+  toUpper: function(stream) {
+    return new CaseInsensitiveInputStream(stream, true);
+  },
+
+  toLower: function(stream) {
+    return new CaseInsensitiveInputStream(stream, false);
   }
 };
 
