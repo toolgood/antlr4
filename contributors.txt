@@ -248,6 +248,13 @@ YYYY/MM/DD, github id, Full name, email
 2020/03/17, XsongyangX, Song Yang, songyang1218@gmail.com
 2020/04/07, deniskyashif, Denis Kyashif, denis.kyashif@gmail.com
 2020/04/30, TristonianJones, Tristan Swadell, tswadell@google.com
+2020/06/04, sigmasoldi3r, Pablo Blanco, pablobc.1995@gmail.com
 2020/05/25, graknol, Sindre van der Linden, graknol@gmail.com
 2020/05/31, d-markey, David Markey, dmarkey@free.fr
+2020/06/02, cohomology, Kilian Kilger, kkilger AT gmail.com
+2020/06/04, IohannRabeson, Iohann Rabeson, iotaka6@gmail.com
 2020/07/01, sha-N, Shan M Mathews, admin@bluestarqatar.com
+2020/08/22, stevenjohnstone, Steven Johnstone, steven.james.johnstone@gmail.com
+2020/09/06, ArthurSonzogni, Sonzogni Arthur, arthursonzogni@gmail.com
+2020/09/12, Clcanny, Charles Ruan, a837940593@gmail.com
+2020/09/15, rmcgregor1990, Robert McGregor, rmcgregor1990@gmail.com
